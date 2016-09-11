@@ -11,7 +11,7 @@ Features (fake_sandbox)
 Features (dummy)
 + Runs an infinite loop with a long sleep, no other operations
 + Very low executable size (1.536 Bytes)
-+ Supports x86 / x64 architectures from Windows XP SP 1 to Windows 10
++ Supports x86 / x64 architectures from Windows 2000 to Windows 10
 
 Bugs:
 + Only able to close the running fake processes when the main application (fake_sandbox) is not terminated. 
